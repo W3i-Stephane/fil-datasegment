@@ -89,7 +89,7 @@ var downloadAndAssemble = &ufcli.Command{
 		&ufcli.UintFlag{
 			Name:        "max-concurrency",
 			Usage:       "How many downloads to execute in parallel",
-			Value:       5,
+			Value:       50,
 			Destination: &maxConcurrency,
 		},
 		&ufcli.UintFlag{
