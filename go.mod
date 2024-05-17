@@ -1,4 +1,4 @@
-module github.com/ribasushi/fil-datasegment
+module github.com/W3i-Stephane/fil-datasegment
 
 go 1.21
 
